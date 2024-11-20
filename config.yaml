@@ -1,0 +1,4 @@
+visualizer_path: "/path/to/visualizer"
+package_path: "C:/Users/dorzh/OneDrive/Desktop/APKBUILD.apkbuild"
+output_file: "C:/Users/dorzh/OneDrive/Desktop/output.puml"
+repository_url: "https://gitlab.alpinelinux.org/alpine/aports/-/tree/master/main/apcupsd"
