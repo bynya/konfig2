@@ -19,3 +19,8 @@
 
 # Требования к тестированию
 Все функции визуализатора зависимостей должны быть покрыты тестами.
+
+# Результаты тестирования
+![image](https://github.com/user-attachments/assets/1a162d67-1e53-4098-9d54-e9369e04f646)
+![image](https://github.com/user-attachments/assets/b3a8b0a6-9c9e-404b-9208-871bd989bd82)
+
